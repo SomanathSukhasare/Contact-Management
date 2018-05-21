@@ -1,0 +1,10 @@
+F:\Somanath_Assignment\ContactManagement\DataContracts\bin\Debug\DataContracts.dll
+F:\Somanath_Assignment\ContactManagement\DataContracts\bin\Debug\DataContracts.pdb
+F:\Somanath_Assignment\ContactManagement\DataContracts\obj\Debug\DataContracts.dll
+F:\Somanath_Assignment\ContactManagement\DataContracts\obj\Debug\DataContracts.pdb
+F:\Somanath_Assignment\ContactManagement\DataContracts\obj\Debug\DataContracts.csprojResolveAssemblyReference.cache
+F:\Somanath_Assignment New\ContactManagement\DataContracts\bin\Debug\DataContracts.dll
+F:\Somanath_Assignment New\ContactManagement\DataContracts\bin\Debug\DataContracts.pdb
+F:\Somanath_Assignment New\ContactManagement\DataContracts\obj\Debug\DataContracts.csprojResolveAssemblyReference.cache
+F:\Somanath_Assignment New\ContactManagement\DataContracts\obj\Debug\DataContracts.dll
+F:\Somanath_Assignment New\ContactManagement\DataContracts\obj\Debug\DataContracts.pdb

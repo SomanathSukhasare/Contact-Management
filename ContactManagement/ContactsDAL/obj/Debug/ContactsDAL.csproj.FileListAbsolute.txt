@@ -1,0 +1,24 @@
+F:\Somanath_Assignment\ContactManagement\ContactsDAL\bin\Debug\ContactsDAL.dll.config
+F:\Somanath_Assignment\ContactManagement\ContactsDAL\bin\Debug\ContactsDAL.dll
+F:\Somanath_Assignment\ContactManagement\ContactsDAL\bin\Debug\ContactsDAL.pdb
+F:\Somanath_Assignment\ContactManagement\ContactsDAL\bin\Debug\EntityFramework.dll
+F:\Somanath_Assignment\ContactManagement\ContactsDAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Somanath_Assignment\ContactManagement\ContactsDAL\bin\Debug\EntityFramework.xml
+F:\Somanath_Assignment\ContactManagement\ContactsDAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Somanath_Assignment\ContactManagement\ContactsDAL\obj\Debug\ContactsDAL.dll
+F:\Somanath_Assignment\ContactManagement\ContactsDAL\obj\Debug\ContactsDAL.pdb
+F:\Somanath_Assignment\ContactManagement\ContactsDAL\obj\Debug\ContactsDAL.csprojResolveAssemblyReference.cache
+F:\Somanath_Assignment\ContactManagement\ContactsDAL\bin\Debug\DataContracts.dll
+F:\Somanath_Assignment\ContactManagement\ContactsDAL\bin\Debug\DataContracts.pdb
+F:\Somanath_Assignment New\ContactManagement\ContactsDAL\obj\Debug\ContactsDAL.csprojResolveAssemblyReference.cache
+F:\Somanath_Assignment New\ContactManagement\ContactsDAL\obj\Debug\ContactsDAL.dll
+F:\Somanath_Assignment New\ContactManagement\ContactsDAL\obj\Debug\ContactsDAL.pdb
+F:\Somanath_Assignment New\ContactManagement\ContactsDAL\bin\Debug\ContactsDAL.dll.config
+F:\Somanath_Assignment New\ContactManagement\ContactsDAL\bin\Debug\ContactsDAL.dll
+F:\Somanath_Assignment New\ContactManagement\ContactsDAL\bin\Debug\ContactsDAL.pdb
+F:\Somanath_Assignment New\ContactManagement\ContactsDAL\bin\Debug\DataContracts.dll
+F:\Somanath_Assignment New\ContactManagement\ContactsDAL\bin\Debug\EntityFramework.dll
+F:\Somanath_Assignment New\ContactManagement\ContactsDAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Somanath_Assignment New\ContactManagement\ContactsDAL\bin\Debug\DataContracts.pdb
+F:\Somanath_Assignment New\ContactManagement\ContactsDAL\bin\Debug\EntityFramework.xml
+F:\Somanath_Assignment New\ContactManagement\ContactsDAL\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactManagement", "ContactManagement\ContactManagement.csproj", "{06EB1897-9199-46E8-A42E-15A326CE25EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactManagement.Tests", "ContactManagement.Tests\ContactManagement.Tests.csproj", "{DEA68278-9274-414E-A3CD-C2309F9EB7AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactsDAL", "ContactsDAL\ContactsDAL.csproj", "{D3503D1C-69B5-4F59-B946-4391F033F825}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataContracts", "DataContracts\DataContracts.csproj", "{A821A618-4167-43F3-8725-0D5815C430D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06EB1897-9199-46E8-A42E-15A326CE25EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06EB1897-9199-46E8-A42E-15A326CE25EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06EB1897-9199-46E8-A42E-15A326CE25EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06EB1897-9199-46E8-A42E-15A326CE25EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEA68278-9274-414E-A3CD-C2309F9EB7AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEA68278-9274-414E-A3CD-C2309F9EB7AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEA68278-9274-414E-A3CD-C2309F9EB7AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEA68278-9274-414E-A3CD-C2309F9EB7AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3503D1C-69B5-4F59-B946-4391F033F825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3503D1C-69B5-4F59-B946-4391F033F825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3503D1C-69B5-4F59-B946-4391F033F825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3503D1C-69B5-4F59-B946-4391F033F825}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A821A618-4167-43F3-8725-0D5815C430D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A821A618-4167-43F3-8725-0D5815C430D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A821A618-4167-43F3-8725-0D5815C430D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A821A618-4167-43F3-8725-0D5815C430D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
